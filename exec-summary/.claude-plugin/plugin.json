@@ -1,0 +1,17 @@
+{
+  "name": "exec-summary",
+  "version": "1.0.0",
+  "description": "Recast a report, deck, or pile of notes for someone who has to make a call on it: the takeaways, what they mean, and what needs deciding. Use /exec-summary <text>.",
+  "author": {
+    "name": "Shreyas Krishna"
+  },
+  "repository": "https://github.com/claude-shortcuts/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "executive",
+    "summary",
+    "briefing",
+    "takeaways",
+    "leadership"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "tone",
+  "version": "1.0.0",
+  "description": "Set the emotional register of an answer — formal, casual, persuasive, blunt, warm, urgent — without changing what it actually says. Use /tone <mood>: <topic>.",
+  "author": {
+    "name": "Shreyas Krishna"
+  },
+  "repository": "https://github.com/claude-shortcuts/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "tone",
+    "voice",
+    "mood",
+    "style",
+    "register"
+  ]
+}

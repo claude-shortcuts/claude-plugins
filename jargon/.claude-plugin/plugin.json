@@ -1,0 +1,17 @@
+{
+  "name": "jargon",
+  "version": "1.0.0",
+  "description": "Dial technical vocabulary up or down while leaving the substance untouched: full domain terminology, or plain language with every term unpacked. Use /jargon <high|low> <topic>.",
+  "author": {
+    "name": "Shreyas Krishna"
+  },
+  "repository": "https://github.com/claude-shortcuts/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "jargon",
+    "technical",
+    "vocabulary",
+    "plain-language",
+    "depth"
+  ]
+}

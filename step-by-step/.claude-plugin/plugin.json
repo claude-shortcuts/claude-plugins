@@ -1,0 +1,17 @@
+{
+  "name": "step-by-step",
+  "version": "1.0.0",
+  "description": "Break a process into ordered instructions with nothing assumed between steps, so it can be followed start to finish without filling gaps. Use /step-by-step <task>.",
+  "author": {
+    "name": "Shreyas Krishna"
+  },
+  "repository": "https://github.com/claude-shortcuts/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "steps",
+    "howto",
+    "instructions",
+    "walkthrough",
+    "guide"
+  ]
+}

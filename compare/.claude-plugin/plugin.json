@@ -1,0 +1,17 @@
+{
+  "name": "compare",
+  "version": "1.0.0",
+  "description": "Put two or more options side by side on the same criteria and surface where they actually differ, skipping the criteria where they don't. Use /compare <a> vs <b>.",
+  "author": {
+    "name": "Shreyas Krishna"
+  },
+  "repository": "https://github.com/claude-shortcuts/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "compare",
+    "versus",
+    "options",
+    "tradeoffs",
+    "evaluate"
+  ]
+}

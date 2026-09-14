@@ -1,0 +1,17 @@
+{
+  "name": "tldr",
+  "version": "1.0.0",
+  "description": "Compress something long into a scannable TL;DR: a one-line takeaway followed by only the points that matter. Use /tldr <text>.",
+  "author": {
+    "name": "Shreyas Krishna"
+  },
+  "repository": "https://github.com/claude-shortcuts/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "summary",
+    "tldr",
+    "summarize",
+    "digest",
+    "skim"
+  ]
+}

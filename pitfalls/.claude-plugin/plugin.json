@@ -1,0 +1,17 @@
+{
+  "name": "pitfalls",
+  "version": "1.0.0",
+  "description": "Stress-test a plan by naming what is most likely to go wrong, why it would happen, and the early signal for each. Use /pitfalls <plan|idea>.",
+  "author": {
+    "name": "Shreyas Krishna"
+  },
+  "repository": "https://github.com/claude-shortcuts/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "risks",
+    "pitfalls",
+    "stress-test",
+    "planning",
+    "failure-modes"
+  ]
+}
