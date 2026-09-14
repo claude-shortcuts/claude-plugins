@@ -1,0 +1,70 @@
+{
+  "name": "prompt-shortcuts",
+  "owner": {
+    "name": "Shreyas Krishna",
+    "email": "shreyasmurthy.net@gmail.com"
+  },
+  "description": "Fifteen small slash commands that shape how Claude answers - length, structure, vocabulary, and point of view - without spelling it out every time.",
+  "plugins": [
+    {
+      "name": "act-as",
+      "source": "./act-as"
+    },
+    {
+      "name": "audience",
+      "source": "./audience"
+    },
+    {
+      "name": "briefly",
+      "source": "./briefly"
+    },
+    {
+      "name": "chain-of-thought",
+      "source": "./chain-of-thought"
+    },
+    {
+      "name": "checklist",
+      "source": "./checklist"
+    },
+    {
+      "name": "compare",
+      "source": "./compare"
+    },
+    {
+      "name": "eval-self",
+      "source": "./eval-self"
+    },
+    {
+      "name": "exec-summary",
+      "source": "./exec-summary"
+    },
+    {
+      "name": "format-as",
+      "source": "./format-as"
+    },
+    {
+      "name": "jargon",
+      "source": "./jargon"
+    },
+    {
+      "name": "pitfalls",
+      "source": "./pitfalls"
+    },
+    {
+      "name": "schema",
+      "source": "./schema"
+    },
+    {
+      "name": "step-by-step",
+      "source": "./step-by-step"
+    },
+    {
+      "name": "tldr",
+      "source": "./tldr"
+    },
+    {
+      "name": "tone",
+      "source": "./tone"
+    }
+  ]
+}

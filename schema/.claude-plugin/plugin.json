@@ -1,0 +1,17 @@
+{
+  "name": "schema",
+  "version": "1.0.0",
+  "description": "Pull named fields out of a source and return them as machine-readable data — JSON, key-value, or a filled template — with no prose wrapped around it. Use /schema <fields>: <source>.",
+  "author": {
+    "name": "Shreyas Krishna"
+  },
+  "repository": "https://github.com/claude-shortcuts/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "schema",
+    "json",
+    "extraction",
+    "structured",
+    "template"
+  ]
+}

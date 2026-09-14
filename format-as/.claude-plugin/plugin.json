@@ -1,0 +1,17 @@
+{
+  "name": "format-as",
+  "version": "1.0.0",
+  "description": "Shape the answer into whatever form you name — table, bullets, email, memo, FAQ, blog outline — letting the form drive the structure, not just the styling. Use /format-as <shape>: <topic>.",
+  "author": {
+    "name": "Shreyas Krishna"
+  },
+  "repository": "https://github.com/claude-shortcuts/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "format",
+    "shape",
+    "table",
+    "outline",
+    "output"
+  ]
+}

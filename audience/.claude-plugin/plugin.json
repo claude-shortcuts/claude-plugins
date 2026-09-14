@@ -1,0 +1,16 @@
+{
+  "name": "audience",
+  "version": "1.0.0",
+  "description": "Frame an explanation for whoever has to read it — a new hire, a customer, a room of students — changing what's assumed known and what's left out. Use /audience <who>: <topic>.",
+  "author": {
+    "name": "Shreyas Krishna"
+  },
+  "repository": "https://github.com/claude-shortcuts/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "audience",
+    "framing",
+    "reader",
+    "explain"
+  ]
+}

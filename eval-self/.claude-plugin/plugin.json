@@ -1,0 +1,17 @@
+{
+  "name": "eval-self",
+  "version": "1.0.0",
+  "description": "Review your own previous answer for gaps, weak reasoning, and unclear passages, then say specifically what would improve it. Needs an earlier answer in the conversation to review. Use /eval-self or /eval-self <what to check>.",
+  "author": {
+    "name": "Shreyas Krishna"
+  },
+  "repository": "https://github.com/claude-shortcuts/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "review",
+    "critique",
+    "self-check",
+    "revise",
+    "quality"
+  ]
+}
