@@ -56,19 +56,6 @@ Then install whichever you want:
 | [`pitfalls`](./pitfalls) | Stress-test a plan: what breaks, why, and the early signal |
 | [`eval-self`](./eval-self) | Have Claude critique its own last answer |
 
-## Picking between the close ones
-
-A few of these overlap, so:
-
-- **`tldr` vs `exec-summary`** — `tldr` is for getting the gist yourself; `exec-summary` is for
-  someone who has to decide something.
-- **`checklist` vs `step-by-step`** — `step-by-step` is a process you follow once, front to back;
-  `checklist` is something you verify repeatedly.
-- **`jargon` vs `audience`** — `jargon` changes only the wording; `audience` changes what gets
-  included at all.
-- **`format-as` vs `schema`** — `format-as` is for humans reading it; `schema` is for something
-  parsing it.
-
 ## Usage
 
 Every plugin takes its input inline after the skills:
