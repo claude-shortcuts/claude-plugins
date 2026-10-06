@@ -33,4 +33,4 @@ Compares options you describe. It does not read your files or git history — pa
 
 ## License
 
-MIT — see [LICENSE](../LICENSE).
+MIT — see [LICENSE](./LICENSE).

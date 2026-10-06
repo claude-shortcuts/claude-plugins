@@ -33,4 +33,4 @@ Best for work done repeatedly or reviewed before shipping. Each item is self-con
 
 ## License
 
-MIT — see [LICENSE](../LICENSE).
+MIT — see [LICENSE](./LICENSE).

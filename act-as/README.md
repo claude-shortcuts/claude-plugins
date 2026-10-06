@@ -33,4 +33,4 @@ Brings the role's priorities and blind spots, not just its vocabulary. Naming a 
 
 ## License
 
-MIT — see [LICENSE](../LICENSE).
+MIT — see [LICENSE](./LICENSE).

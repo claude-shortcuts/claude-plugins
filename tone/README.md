@@ -38,4 +38,4 @@ Shapes word choice and rhythm; the substance stays the same. Formal, casual, per
 
 ## License
 
-MIT — see [LICENSE](../LICENSE).
+MIT — see [LICENSE](./LICENSE).
