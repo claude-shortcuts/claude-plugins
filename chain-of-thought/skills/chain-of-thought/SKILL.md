@@ -1,6 +1,6 @@
 ---
 name: chain-of-thought
-description: "Work a hard problem in visible steps — state the givens, reason forward one move at a time, then conclude — so the logic can be checked rather than taken on faith. Use when the user types /chain-of-thought <problem>, or explicitly asks to see the reasoning (\"show your work\", \"reason through this step by step\", \"show your reasoning\")."
+description: "Work a hard problem in visible steps — state the givens, reason forward one move at a time, then conclude — so the logic can be checked rather than taken on faith. Use when the user types /chain-of-thought <problem>, or explicitly asks to see the reasoning (\"show your work\", \"show your reasoning\")."
 ---
 
 # chain-of-thought
