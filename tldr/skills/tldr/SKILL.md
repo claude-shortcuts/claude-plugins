@@ -7,4 +7,4 @@ description: "Compress something long into a scannable TL;DR: a one-line takeawa
 
 Compress this into a TL;DR: a one-line takeaway first, then only the points that actually matter — drop everything else.
 
-Text or URL: $ARGUMENTS
+Text: $ARGUMENTS
