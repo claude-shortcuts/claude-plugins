@@ -33,4 +33,4 @@ No preamble, no padding, no restating the question. Reach for a normal prompt wh
 
 ## License
 
-MIT — see [LICENSE](../LICENSE).
+MIT — see [LICENSE](./LICENSE).

@@ -33,4 +33,4 @@ Deliberately one-sided toward what could go wrong — it is a stress test, not a
 
 ## License
 
-MIT — see [LICENSE](../LICENSE).
+MIT — see [LICENSE](./LICENSE).

@@ -33,4 +33,4 @@ Aimed at a decision-maker, so it leads with what needs a call. Use /tldr instead
 
 ## License
 
-MIT — see [LICENSE](../LICENSE).
+MIT — see [LICENSE](./LICENSE).

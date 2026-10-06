@@ -33,4 +33,4 @@ For getting the gist yourself. Use /exec-summary when the audience has to make a
 
 ## License
 
-MIT — see [LICENSE](../LICENSE).
+MIT — see [LICENSE](./LICENSE).

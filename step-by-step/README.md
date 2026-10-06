@@ -33,4 +33,4 @@ For a process someone follows once, front to back. Use /checklist for something 
 
 ## License
 
-MIT — see [LICENSE](../LICENSE).
+MIT — see [LICENSE](./LICENSE).

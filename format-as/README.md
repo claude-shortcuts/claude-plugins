@@ -38,4 +38,4 @@ The form drives the structure, not just the styling. Table, bullets, email, memo
 
 ## License
 
-MIT — see [LICENSE](../LICENSE).
+MIT — see [LICENSE](./LICENSE).

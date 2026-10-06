@@ -33,4 +33,4 @@ Changes what is assumed known and what is left out entirely — not just the rea
 
 ## License
 
-MIT — see [LICENSE](../LICENSE).
+MIT — see [LICENSE](./LICENSE).

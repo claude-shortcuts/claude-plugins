@@ -33,4 +33,4 @@ Useful when you need to audit the logic rather than trust a conclusion. This sha
 
 ## License
 
-MIT — see [LICENSE](../LICENSE).
+MIT — see [LICENSE](./LICENSE).

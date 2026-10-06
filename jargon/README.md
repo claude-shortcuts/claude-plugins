@@ -33,4 +33,4 @@ Changes the wording, not the substance — the same facts either way. Use /audie
 
 ## License
 
-MIT — see [LICENSE](../LICENSE).
+MIT — see [LICENSE](./LICENSE).

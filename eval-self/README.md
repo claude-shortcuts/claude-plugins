@@ -37,4 +37,4 @@ Worth knowing: this is self-critique, so the same model that wrote the answer is
 
 ## License
 
-MIT — see [LICENSE](../LICENSE).
+MIT — see [LICENSE](./LICENSE).

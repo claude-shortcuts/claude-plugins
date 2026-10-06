@@ -33,4 +33,4 @@ Output is JSON, key-value, or a filled template with no prose around it, so it c
 
 ## License
 
-MIT — see [LICENSE](../LICENSE).
+MIT — see [LICENSE](./LICENSE).
