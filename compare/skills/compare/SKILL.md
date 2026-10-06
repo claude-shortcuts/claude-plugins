@@ -1,6 +1,6 @@
 ---
 name: compare
-description: "Put two or more options side by side on the same criteria and surface where they actually differ, skipping the criteria where they don't. Use when the user types /compare <a> vs <b>, or weighs named options against each other (\"X vs Y\", \"which should I use\", \"what's the difference between\", \"pros and cons of each\")."
+description: "Put two or more options side by side on the same criteria and surface where they actually differ, skipping the criteria where they don't. Use when the user types /compare <a> vs <b>, or explicitly asks to compare named options (\"X vs Y\", \"compare X and Y\", \"side by side\", \"pros and cons of each\")."
 ---
 
 # compare
