@@ -1,6 +1,6 @@
 {
   "name": "briefly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get a short answer instead of a full explanation: no preamble, no padding, no restating the question. Use /briefly <question>.",
   "author": {
     "name": "Shreyas Krishna"

@@ -1,6 +1,6 @@
 {
   "name": "pitfalls",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stress-test a plan by naming what is most likely to go wrong, why it would happen, and the early signal for each. Use /pitfalls <plan|idea>.",
   "author": {
     "name": "Shreyas Krishna"
