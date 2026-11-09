@@ -1,6 +1,6 @@
 {
   "name": "chain-of-thought",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Work a hard problem in visible steps — state the givens, reason forward one move at a time, then conclude — so the logic can be checked rather than taken on faith. Use /chain-of-thought <problem>.",
   "author": {
     "name": "Shreyas Krishna"

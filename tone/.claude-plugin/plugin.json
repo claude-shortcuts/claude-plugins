@@ -1,6 +1,6 @@
 {
   "name": "tone",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Set the emotional register of an answer — formal, casual, persuasive, blunt, warm, urgent — without changing what it actually says. Use /tone <mood>: <topic>.",
   "author": {
     "name": "Shreyas Krishna"

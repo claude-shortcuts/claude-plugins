@@ -1,6 +1,6 @@
 {
   "name": "checklist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Turn a task or document into checkbox items, each a single concrete action, ordered to work through top to bottom. Use /checklist <task|text>.",
   "author": {
     "name": "Shreyas Krishna"

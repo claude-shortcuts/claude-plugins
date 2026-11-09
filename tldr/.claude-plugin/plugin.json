@@ -1,6 +1,6 @@
 {
   "name": "tldr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compress something long into a scannable TL;DR: a one-line takeaway followed by only the points that matter. Use /tldr <text>.",
   "author": {
     "name": "Shreyas Krishna"

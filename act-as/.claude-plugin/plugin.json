@@ -1,6 +1,6 @@
 {
   "name": "act-as",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Answer from a named role's seat — engineer, CFO, marketer, skeptical customer — carrying that role's priorities and blind spots, not just its job title. Use /act-as <role>: <question>.",
   "author": {
     "name": "Shreyas Krishna"
